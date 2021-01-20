@@ -11,14 +11,12 @@
 4. составление тренировочный программ(комбинирование упражнений из апи и добавление своих)
 5. ...
 
+#### Используемые технологии:
+- ЯП: Kotlin 
+- Dagger and Hilt
+- Retrofit and OkHttp
+- Coroutine and Flow
+- MVVM
+- Picasso(May Be),
 
 Используемые открытые API: https://wger.de/ru/dashboard
-
-#### Используемые технологии:
- ЯП: Kotlin
- Dagger and Hilt,
- Retrofit and OkHttp,
- Coroutine and Flow,
- MVVM,
- Picasso(May Be),  
- 
