@@ -13,3 +13,12 @@
 
 
 Используемые открытые API: https://wger.de/ru/dashboard
+
+#### Используемые технологии:
+ ЯП: Kotlin
+ Dagger and Hilt,
+ Retrofit and OkHttp,
+ Coroutine and Flow,
+ MVVM,
+ Picasso(May Be),  
+ 
